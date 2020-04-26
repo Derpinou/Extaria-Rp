@@ -1,0 +1,10 @@
+{
+    "token": "Token", 
+    "color": "#2764ba",
+    "policier": "Role Policier",
+    "pservice": "Policier en service role",
+    "pchannel": "Policier Channel",
+    "taxi": "Role Taxi",
+    "tservice": "Taxi en Service Role",
+    "tchannel": "Taxi Channel"
+}
