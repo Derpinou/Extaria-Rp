@@ -12,7 +12,7 @@ console.log('Bot connecté') // Log pour prouver que le bot est co
 
 //event Ready, le bot est allumé
 client.on('ready', () => { 
-    client.user.setActivity('Extaria RolePlay', { type: 'WATCHINg' }) //Définition du status
+    client.user.setActivity('Extaria RolePlay', { type: 'WATCHING' }) //Définition du status
     console.log(`${client.user.username} Connecté`) //Donne le nom du Bot Connecté sur le client
 
 })
